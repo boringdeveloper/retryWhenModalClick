@@ -1,0 +1,9 @@
+{
+    "compilerOptions": {
+        "paths": {
+            "@core/services": ["src/app/core/services/index"],
+            "@shared/components": ["src/app/shared/components/index"],
+            "@shared/interface": ["src/app/shared/interface/index"]
+        }
+    }
+}
