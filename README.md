@@ -4,4 +4,5 @@ This project is used for the blog [Retry Failed HTTP Request on Modal Button Cli
 
 ## Project Structure
 **_/api_** - contains the mock express api server used for testing.
+
 **_/ng-app_** - contains the angular application
